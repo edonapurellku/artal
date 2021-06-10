@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+body{
+text-align: center;
+}
+.hero{
+		background-image: url(D:arta20/fotot/DSC04828.JPG);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.contaioner{
+	padding-top: 290px;
+	padding-bottom: 290px;
+
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	font-family: Roboto Mono;
+}
+
